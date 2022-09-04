@@ -1,0 +1,300 @@
+﻿firstname;lastname;username;password;OU;mail;number;securitygroup
+Vesna;Tomic;vtomic;"c""99S80D";OU=Vanjski korisnici,DC=vladimir,DC=putin;vtomic@vladimir.putin;916946070;Administrator
+Pero;Bozic;pbozic;d#47H81A;OU=Financije,DC=vladimir,DC=putin;pbozic@vladimir.putin;918984412;Administrator
+Ann;Tomic;atomic;c$69H75J;OU=Uprava,DC=vladimir,DC=putin;atomic@vladimir.putin;917149217;DistroGrupa
+Drzislav;Nikolic;dnikolic;l$34W81Q;OU=Financije,DC=vladimir,DC=putin;dnikolic@vladimir.putin;913410375;Zaposlenici
+Mislav;Knezevic;mknezevic;"r""12Q50C";OU=Vanjski korisnici,DC=vladimir,DC=putin;mknezevic@vladimir.putin;915366867;DistroGrupa
+Bojana;Knezevic;bknezevic;"y""80T93U";OU=Vanjski korisnici,DC=vladimir,DC=putin;bknezevic@vladimir.putin;919856948;Zaposlenici
+Milan;Cosci;mcosci;h#61S62S;OU=Vanjski korisnici,DC=vladimir,DC=putin;mcosci@vladimir.putin;914198256;DistroGrupa
+Dzuro;Jukic;djukic;p%95N86G;OU=Financije,DC=vladimir,DC=putin;djukic@vladimir.putin;913461599;Zaposlenici
+Drzislav;Loncar;dloncar;u&79K28X;OU=Uprava,DC=vladimir,DC=putin;dloncar@vladimir.putin;918839420;Administrator
+Drzislav;Posavec;dposavec;"g""57V46W";OU=Financije,DC=vladimir,DC=putin;dposavec@vladimir.putin;917767487;Administrator
+Sam;Loncar;sloncar;w%45N93A;OU=Financije,DC=vladimir,DC=putin;sloncar@vladimir.putin;919661607;Vanjski
+Lela;Nikolic;lnikolic;n#68N42V;OU=Financije,DC=vladimir,DC=putin;lnikolic@vladimir.putin;914776978;Administrator
+Miroslav;Horvat;mhorvat;m#55E99Q;OU=Uprava,DC=vladimir,DC=putin;mhorvat@vladimir.putin;915982869;Vanjski
+Margarita;Loncar;mloncar;q%36H27A;OU=Uprava,DC=vladimir,DC=putin;mloncar@vladimir.putin;915012280;Zaposlenici
+Vladislav;Posavec;vposavec;f$94Y87Q;OU=Marketing,DC=vladimir,DC=putin;vposavec@vladimir.putin;914121522;Vanjski
+Mislav;Mamic;mmamic;n$84L78Z;OU=Marketing,DC=vladimir,DC=putin;mmamic@vladimir.putin;919661021;Zaposlenici
+Neda;Nikolic;nnikolic;w#73Z81X;OU=Vanjski korisnici,DC=vladimir,DC=putin;nnikolic@vladimir.putin;919001811;Zaposlenici
+Morana;Nikolic;mnikolic;"m""89V49R";OU=Financije,DC=vladimir,DC=putin;mnikolic@vladimir.putin;911860188;DistroGrupa
+Sam;Filipovic;sfilipovic;y%74L69J;OU=Marketing,DC=vladimir,DC=putin;sfilipovic@vladimir.putin;918970538;Zaposlenici
+Danica;Posavec;dposavec;c&22F61G;OU=Financije,DC=vladimir,DC=putin;dposavec@vladimir.putin;916953675;Vanjski
+Jennifer;Nikolic;jnikolic;g!32C75Y;OU=Vanjski korisnici,DC=vladimir,DC=putin;jnikolic@vladimir.putin;914224298;Administrator
+Sam;Filipovic;sfilipovic;"u""26E61L";OU=Uprava,DC=vladimir,DC=putin;sfilipovic@vladimir.putin;910391877;Vanjski
+Drzislav;Bosnjak;dbosnjak;"w""82G57D";OU=Marketing,DC=vladimir,DC=putin;dbosnjak@vladimir.putin;916956136;Vanjski
+Toni;Filipovic;tfilipovic;"u""78J61O";OU=Vanjski korisnici,DC=vladimir,DC=putin;tfilipovic@vladimir.putin;919789141;Zaposlenici
+Danica;Kovacevic;dkovacevic;v!24M54Y;OU=Uprava,DC=vladimir,DC=putin;dkovacevic@vladimir.putin;912538130;Administrator
+Ann;Bosnjak;abosnjak;r&64J71Z;OU=Vanjski korisnici,DC=vladimir,DC=putin;abosnjak@vladimir.putin;910375083;Vanjski
+Vesna;Mamic;vmamic;"h""19Y68H";OU=Vanjski korisnici,DC=vladimir,DC=putin;vmamic@vladimir.putin;918305267;Zaposlenici
+Buga;Loncar;bloncar;v#11U79M;OU=Vanjski korisnici,DC=vladimir,DC=putin;bloncar@vladimir.putin;919713894;Zaposlenici
+Matt;Posavec;mposavec;t%65O10B;OU=Marketing,DC=vladimir,DC=putin;mposavec@vladimir.putin;919808434;Administrator
+Bojan;Tomic;btomic;o&66Z36X;OU=Vanjski korisnici,DC=vladimir,DC=putin;btomic@vladimir.putin;918019658;Vanjski
+George;Loncar;gloncar;r#81T99Q;OU=Marketing,DC=vladimir,DC=putin;gloncar@vladimir.putin;919138618;Administrator
+Zvonimir;Filipovic;zfilipovic;z#97F72U;OU=Financije,DC=vladimir,DC=putin;zfilipovic@vladimir.putin;911083140;Vanjski
+Neda;Bosnjak;nbosnjak;a%92L71Y;OU=Financije,DC=vladimir,DC=putin;nbosnjak@vladimir.putin;913030823;Vanjski
+Mislav;Kovacevic;mkovacevic;"g""25N83V";OU=Uprava,DC=vladimir,DC=putin;mkovacevic@vladimir.putin;913987655;DistroGrupa
+Zorja;Loncar;zloncar;n$43Z78V;OU=Marketing,DC=vladimir,DC=putin;zloncar@vladimir.putin;919360799;Zaposlenici
+Vladislav;Simunovic;vsimunovic;r#23U15P;OU=Vanjski korisnici,DC=vladimir,DC=putin;vsimunovic@vladimir.putin;915235743;Zaposlenici
+Hrvoje;Tomic;htomic;e#42E62O;OU=Vanjski korisnici,DC=vladimir,DC=putin;htomic@vladimir.putin;914395166;DistroGrupa
+Matt;Bozic;mbozic;j#88X13H;OU=Uprava,DC=vladimir,DC=putin;mbozic@vladimir.putin;914686043;Administrator
+Dzuro;Knezevic;dknezevic;b!70W10Z;OU=Marketing,DC=vladimir,DC=putin;dknezevic@vladimir.putin;916963646;DistroGrupa
+Vesna;Horvat;vhorvat;y&37I43K;OU=Uprava,DC=vladimir,DC=putin;vhorvat@vladimir.putin;914284058;Zaposlenici
+Krsto;Bosnjak;kbosnjak;k#44A25M;OU=Vanjski korisnici,DC=vladimir,DC=putin;kbosnjak@vladimir.putin;911381344;Vanjski
+Pero;Bosnjak;pbosnjak;c$42Z55D;OU=Financije,DC=vladimir,DC=putin;pbosnjak@vladimir.putin;911210059;Vanjski
+Katarina;Nikolic;knikolic;b#68X30S;OU=Uprava,DC=vladimir,DC=putin;knikolic@vladimir.putin;919192771;Vanjski
+Mislav;Loncar;mloncar;"d""58I99V";OU=Marketing,DC=vladimir,DC=putin;mloncar@vladimir.putin;918218303;DistroGrupa
+Tvrtko;Tomic;ttomic;"o""43M96O";OU=Uprava,DC=vladimir,DC=putin;ttomic@vladimir.putin;917880519;DistroGrupa
+Pero;Cosci;pcosci;q%84Y15E;OU=Uprava,DC=vladimir,DC=putin;pcosci@vladimir.putin;916790268;Administrator
+Krsto;Posavec;kposavec;s%11S90M;OU=Vanjski korisnici,DC=vladimir,DC=putin;kposavec@vladimir.putin;912103512;Administrator
+Kosjenka;Horvat;khorvat;q%12E59O;OU=Vanjski korisnici,DC=vladimir,DC=putin;khorvat@vladimir.putin;917422404;Zaposlenici
+Sam;Filipovic;sfilipovic;h&12J99T;OU=Marketing,DC=vladimir,DC=putin;sfilipovic@vladimir.putin;917125387;DistroGrupa
+Mislav;Loncar;mloncar;v$42L68A;OU=Marketing,DC=vladimir,DC=putin;mloncar@vladimir.putin;911417960;Administrator
+Ann;Nikolic;anikolic;b$36Z17R;OU=Marketing,DC=vladimir,DC=putin;anikolic@vladimir.putin;914449496;Zaposlenici
+Vesna;Horvat;vhorvat;b%97H91S;OU=Vanjski korisnici,DC=vladimir,DC=putin;vhorvat@vladimir.putin;912582793;DistroGrupa
+Zorja;Horvat;zhorvat;c!46K38M;OU=Uprava,DC=vladimir,DC=putin;zhorvat@vladimir.putin;919783428;Administrator
+Margarita;Simunovic;msimunovic;i%22Z49T;OU=Financije,DC=vladimir,DC=putin;msimunovic@vladimir.putin;912221914;Administrator
+Kosjenka;Bosnjak;kbosnjak;u$67E49P;OU=Uprava,DC=vladimir,DC=putin;kbosnjak@vladimir.putin;918649644;Administrator
+Pero;Cosci;pcosci;"z""98B60Q";OU=Vanjski korisnici,DC=vladimir,DC=putin;pcosci@vladimir.putin;918719881;DistroGrupa
+Zorja;Bosnjak;zbosnjak;m%74U36K;OU=Vanjski korisnici,DC=vladimir,DC=putin;zbosnjak@vladimir.putin;917444448;Zaposlenici
+Hrvojka;Simunovic;hsimunovic;k!24D29Y;OU=Uprava,DC=vladimir,DC=putin;hsimunovic@vladimir.putin;914038506;Administrator
+Morana;Mamic;mmamic;o#70J54C;OU=Uprava,DC=vladimir,DC=putin;mmamic@vladimir.putin;911387737;Zaposlenici
+Lela;Mamic;lmamic;h#99S64Z;OU=Financije,DC=vladimir,DC=putin;lmamic@vladimir.putin;910266634;Zaposlenici
+Dzuro;Horvat;dhorvat;l#44I75S;OU=Marketing,DC=vladimir,DC=putin;dhorvat@vladimir.putin;919396987;DistroGrupa
+Lela;Filipovic;lfilipovic;v&10L55L;OU=Financije,DC=vladimir,DC=putin;lfilipovic@vladimir.putin;916357031;DistroGrupa
+Katarina;Loncar;kloncar;d&13J75H;OU=Uprava,DC=vladimir,DC=putin;kloncar@vladimir.putin;912579688;Administrator
+Milan;Bozic;mbozic;d%44M56E;OU=Financije,DC=vladimir,DC=putin;mbozic@vladimir.putin;910799684;Zaposlenici
+Danica;Bosnjak;dbosnjak;"h""36R52G";OU=Financije,DC=vladimir,DC=putin;dbosnjak@vladimir.putin;912281907;Vanjski
+Doroteja;Loncar;dloncar;x#56F32V;OU=Vanjski korisnici,DC=vladimir,DC=putin;dloncar@vladimir.putin;913116264;DistroGrupa
+Toni;Tomic;ttomic;k!47R29F;OU=Vanjski korisnici,DC=vladimir,DC=putin;ttomic@vladimir.putin;915540418;Vanjski
+Vladislava;Kovacevic;vkovacevic;p&90W19L;OU=Financije,DC=vladimir,DC=putin;vkovacevic@vladimir.putin;917705536;DistroGrupa
+Jennifer;Tomic;jtomic;z$80C60P;OU=Marketing,DC=vladimir,DC=putin;jtomic@vladimir.putin;911355039;Zaposlenici
+Tvrtko;Knezevic;tknezevic;o%51E33T;OU=Marketing,DC=vladimir,DC=putin;tknezevic@vladimir.putin;919798652;Administrator
+Bojan;Nikolic;bnikolic;i!16R90H;OU=Financije,DC=vladimir,DC=putin;bnikolic@vladimir.putin;910538621;Vanjski
+Ann;Bosnjak;abosnjak;t$24S95P;OU=Uprava,DC=vladimir,DC=putin;abosnjak@vladimir.putin;916454493;Vanjski
+Drzislav;Filipovic;dfilipovic;h%90A81U;OU=Financije,DC=vladimir,DC=putin;dfilipovic@vladimir.putin;912785708;DistroGrupa
+Zvonimir;Cosci;zcosci;k%11I56L;OU=Marketing,DC=vladimir,DC=putin;zcosci@vladimir.putin;913181486;Administrator
+Mislav;Simunovic;msimunovic;h%13X44G;OU=Financije,DC=vladimir,DC=putin;msimunovic@vladimir.putin;916483727;DistroGrupa
+Danica;Bozic;dbozic;a$43O81O;OU=Vanjski korisnici,DC=vladimir,DC=putin;dbozic@vladimir.putin;914048527;DistroGrupa
+Miroslav;Kovacevic;mkovacevic;a#84N94S;OU=Financije,DC=vladimir,DC=putin;mkovacevic@vladimir.putin;917632921;Vanjski
+Bojana;Loncar;bloncar;k#85S87W;OU=Vanjski korisnici,DC=vladimir,DC=putin;bloncar@vladimir.putin;914666616;DistroGrupa
+Matt;Simunovic;msimunovic;j&29J13S;OU=Vanjski korisnici,DC=vladimir,DC=putin;msimunovic@vladimir.putin;910987787;Zaposlenici
+Vladislav;Horvat;vhorvat;j$60L19E;OU=Financije,DC=vladimir,DC=putin;vhorvat@vladimir.putin;911539530;DistroGrupa
+Bojana;Posavec;bposavec;g$40F46Q;OU=Vanjski korisnici,DC=vladimir,DC=putin;bposavec@vladimir.putin;913290269;Vanjski
+Morana;Kovacevic;mkovacevic;k%93X71T;OU=Uprava,DC=vladimir,DC=putin;mkovacevic@vladimir.putin;912430089;Zaposlenici
+Buga;Loncar;bloncar;z&63E11X;OU=Uprava,DC=vladimir,DC=putin;bloncar@vladimir.putin;911527167;Vanjski
+Sam;Horvat;shorvat;"y""46S52B";OU=Marketing,DC=vladimir,DC=putin;shorvat@vladimir.putin;914553951;Zaposlenici
+Ann;Tomic;atomic;d!86A72H;OU=Marketing,DC=vladimir,DC=putin;atomic@vladimir.putin;914681852;Vanjski
+Bojan;Bosnjak;bbosnjak;a&75Q19K;OU=Uprava,DC=vladimir,DC=putin;bbosnjak@vladimir.putin;913151355;Vanjski
+Lela;Bosnjak;lbosnjak;e#79D87P;OU=Marketing,DC=vladimir,DC=putin;lbosnjak@vladimir.putin;911068144;Administrator
+Pero;Nikolic;pnikolic;x!66X57N;OU=Financije,DC=vladimir,DC=putin;pnikolic@vladimir.putin;912234455;Vanjski
+Kosjenka;Tomic;ktomic;n!71M40B;OU=Financije,DC=vladimir,DC=putin;ktomic@vladimir.putin;911277653;Vanjski
+Vesna;Simunovic;vsimunovic;g&26Z53K;OU=Marketing,DC=vladimir,DC=putin;vsimunovic@vladimir.putin;916161952;DistroGrupa
+Vesna;Cosci;vcosci;w&96G39T;OU=Financije,DC=vladimir,DC=putin;vcosci@vladimir.putin;913628080;Zaposlenici
+Margarita;Posavec;mposavec;q&35M27D;OU=Vanjski korisnici,DC=vladimir,DC=putin;mposavec@vladimir.putin;919710329;Administrator
+Neda;Jukic;njukic;z&17P84V;OU=Marketing,DC=vladimir,DC=putin;njukic@vladimir.putin;913620051;Zaposlenici
+Sam;Knezevic;sknezevic;k#81G15W;OU=Vanjski korisnici,DC=vladimir,DC=putin;sknezevic@vladimir.putin;917754880;Administrator
+Hrvojka;Posavec;hposavec;z%78W56Q;OU=Marketing,DC=vladimir,DC=putin;hposavec@vladimir.putin;912021377;Vanjski
+Morana;Bozic;mbozic;k%46D74Q;OU=Marketing,DC=vladimir,DC=putin;mbozic@vladimir.putin;919874051;Vanjski
+Morana;Tomic;mtomic;y#66G92Q;OU=Marketing,DC=vladimir,DC=putin;mtomic@vladimir.putin;918118857;Administrator
+Lela;Jukic;ljukic;"j""83T93I";OU=Financije,DC=vladimir,DC=putin;ljukic@vladimir.putin;918743956;Zaposlenici
+Zorja;Simunovic;zsimunovic;"r""53Q60N";OU=Marketing,DC=vladimir,DC=putin;zsimunovic@vladimir.putin;918333016;Zaposlenici
+Krsto;Horvat;khorvat;i!82F24Z;OU=Marketing,DC=vladimir,DC=putin;khorvat@vladimir.putin;917845936;DistroGrupa
+Sam;Tomic;stomic;k%91R72S;OU=Uprava,DC=vladimir,DC=putin;stomic@vladimir.putin;918229914;Zaposlenici
+Miroslav;Tomic;mtomic;b&70H35I;OU=Vanjski korisnici,DC=vladimir,DC=putin;mtomic@vladimir.putin;918534316;DistroGrupa
+Drzislav;Filipovic;dfilipovic;t#62J94A;OU=Financije,DC=vladimir,DC=putin;dfilipovic@vladimir.putin;916320712;Zaposlenici
+Danica;Simunovic;dsimunovic;t#35N88I;OU=Vanjski korisnici,DC=vladimir,DC=putin;dsimunovic@vladimir.putin;911915822;Vanjski
+Doroteja;Horvat;dhorvat;"h""30D85G";OU=Uprava,DC=vladimir,DC=putin;dhorvat@vladimir.putin;915826891;DistroGrupa
+Danica;Knezevic;dknezevic;k#36F31I;OU=Vanjski korisnici,DC=vladimir,DC=putin;dknezevic@vladimir.putin;910155263;Vanjski
+Matt;Bosnjak;mbosnjak;f&41Z90M;OU=Vanjski korisnici,DC=vladimir,DC=putin;mbosnjak@vladimir.putin;912747301;Zaposlenici
+Bojana;Loncar;bloncar;m%50F93P;OU=Marketing,DC=vladimir,DC=putin;bloncar@vladimir.putin;916619246;Zaposlenici
+Miroslav;Horvat;mhorvat;y!21A44Y;OU=Marketing,DC=vladimir,DC=putin;mhorvat@vladimir.putin;915308895;DistroGrupa
+Katarina;Loncar;kloncar;"z""13X66S";OU=Uprava,DC=vladimir,DC=putin;kloncar@vladimir.putin;910066757;Zaposlenici
+Vladislava;Bozic;vbozic;l#26L95H;OU=Marketing,DC=vladimir,DC=putin;vbozic@vladimir.putin;910000411;Administrator
+Lela;Loncar;lloncar;l#68N17P;OU=Uprava,DC=vladimir,DC=putin;lloncar@vladimir.putin;916737668;Administrator
+Dzuro;Bosnjak;dbosnjak;z&40S96P;OU=Marketing,DC=vladimir,DC=putin;dbosnjak@vladimir.putin;919700295;DistroGrupa
+Bojan;Bozic;bbozic;i&74I60C;OU=Marketing,DC=vladimir,DC=putin;bbozic@vladimir.putin;914055744;Vanjski
+Vladislava;Jukic;vjukic;"b""14K33N";OU=Marketing,DC=vladimir,DC=putin;vjukic@vladimir.putin;912341517;Administrator
+Mislav;Kovacevic;mkovacevic;b#40M31C;OU=Uprava,DC=vladimir,DC=putin;mkovacevic@vladimir.putin;916858609;DistroGrupa
+Zora;Loncar;zloncar;t#54G39T;OU=Vanjski korisnici,DC=vladimir,DC=putin;zloncar@vladimir.putin;919324300;Vanjski
+Zora;Tomic;ztomic;z$10E94A;OU=Vanjski korisnici,DC=vladimir,DC=putin;ztomic@vladimir.putin;914154407;DistroGrupa
+Vladislav;Filipovic;vfilipovic;b#36M14N;OU=Vanjski korisnici,DC=vladimir,DC=putin;vfilipovic@vladimir.putin;919625037;Administrator
+Vladislav;Cosci;vcosci;"y""26Q36I";OU=Uprava,DC=vladimir,DC=putin;vcosci@vladimir.putin;915851971;Zaposlenici
+Ann;Filipovic;afilipovic;k$87H98P;OU=Marketing,DC=vladimir,DC=putin;afilipovic@vladimir.putin;915547916;Administrator
+Bojan;Bosnjak;bbosnjak;e$34D30O;OU=Vanjski korisnici,DC=vladimir,DC=putin;bbosnjak@vladimir.putin;911116202;Zaposlenici
+Sam;Filipovic;sfilipovic;b#84F69P;OU=Uprava,DC=vladimir,DC=putin;sfilipovic@vladimir.putin;917512046;Vanjski
+Tvrtko;Nikolic;tnikolic;m!81N24D;OU=Financije,DC=vladimir,DC=putin;tnikolic@vladimir.putin;911200108;Vanjski
+Bojana;Bozic;bbozic;y$82B63J;OU=Marketing,DC=vladimir,DC=putin;bbozic@vladimir.putin;918290493;DistroGrupa
+Buga;Simunovic;bsimunovic;e$92S82K;OU=Vanjski korisnici,DC=vladimir,DC=putin;bsimunovic@vladimir.putin;915385731;Zaposlenici
+Kosjenka;Knezevic;kknezevic;"d""22T40C";OU=Uprava,DC=vladimir,DC=putin;kknezevic@vladimir.putin;913016210;Zaposlenici
+Bojana;Filipovic;bfilipovic;l!18Z42D;OU=Financije,DC=vladimir,DC=putin;bfilipovic@vladimir.putin;915407528;Zaposlenici
+Pero;Knezevic;pknezevic;n$98T67A;OU=Financije,DC=vladimir,DC=putin;pknezevic@vladimir.putin;917857144;Vanjski
+Zora;Simunovic;zsimunovic;x%39A80T;OU=Financije,DC=vladimir,DC=putin;zsimunovic@vladimir.putin;910881101;Administrator
+Neda;Horvat;nhorvat;q$93L41R;OU=Vanjski korisnici,DC=vladimir,DC=putin;nhorvat@vladimir.putin;919540807;Administrator
+Kresimir;Jukic;kjukic;"b""82Z96W";OU=Marketing,DC=vladimir,DC=putin;kjukic@vladimir.putin;914402069;Vanjski
+Drzislav;Mamic;dmamic;v!16T15T;OU=Financije,DC=vladimir,DC=putin;dmamic@vladimir.putin;918301488;DistroGrupa
+Krsto;Kovacevic;kkovacevic;w$61J81M;OU=Uprava,DC=vladimir,DC=putin;kkovacevic@vladimir.putin;913686929;DistroGrupa
+Neda;Jukic;njukic;v&70C43A;OU=Marketing,DC=vladimir,DC=putin;njukic@vladimir.putin;910163153;Vanjski
+Zorja;Jukic;zjukic;"x""93W55I";OU=Vanjski korisnici,DC=vladimir,DC=putin;zjukic@vladimir.putin;912085667;Administrator
+George;Jukic;gjukic;j!23T41R;OU=Marketing,DC=vladimir,DC=putin;gjukic@vladimir.putin;910244030;Zaposlenici
+Bojana;Mamic;bmamic;q&86A93A;OU=Financije,DC=vladimir,DC=putin;bmamic@vladimir.putin;917974716;Administrator
+Vladislav;Nikolic;vnikolic;y%92P97C;OU=Uprava,DC=vladimir,DC=putin;vnikolic@vladimir.putin;916569700;Zaposlenici
+Katarina;Filipovic;kfilipovic;x!34K87N;OU=Marketing,DC=vladimir,DC=putin;kfilipovic@vladimir.putin;915772688;Vanjski
+Vladislav;Nikolic;vnikolic;o&92A64E;OU=Uprava,DC=vladimir,DC=putin;vnikolic@vladimir.putin;916280183;Zaposlenici
+Hrvojka;Simunovic;hsimunovic;n#66B55J;OU=Vanjski korisnici,DC=vladimir,DC=putin;hsimunovic@vladimir.putin;919445904;Administrator
+Miroslav;Cosci;mcosci;m&34Z80M;OU=Marketing,DC=vladimir,DC=putin;mcosci@vladimir.putin;914646619;Administrator
+Kosjenka;Bozic;kbozic;a!11D23P;OU=Uprava,DC=vladimir,DC=putin;kbozic@vladimir.putin;910117429;Vanjski
+Tvrtko;Loncar;tloncar;g$85I44X;OU=Marketing,DC=vladimir,DC=putin;tloncar@vladimir.putin;910950400;Zaposlenici
+Sam;Horvat;shorvat;d&59C38H;OU=Uprava,DC=vladimir,DC=putin;shorvat@vladimir.putin;913804837;DistroGrupa
+Kresimir;Mamic;kmamic;h!55O28I;OU=Marketing,DC=vladimir,DC=putin;kmamic@vladimir.putin;913771408;Zaposlenici
+Jennifer;Nikolic;jnikolic;t#44U23N;OU=Vanjski korisnici,DC=vladimir,DC=putin;jnikolic@vladimir.putin;916729817;Zaposlenici
+Neda;Simunovic;nsimunovic;y!86W13M;OU=Uprava,DC=vladimir,DC=putin;nsimunovic@vladimir.putin;918942979;DistroGrupa
+Pero;Bozic;pbozic;u#60B64M;OU=Uprava,DC=vladimir,DC=putin;pbozic@vladimir.putin;918408367;Zaposlenici
+Kosjenka;Filipovic;kfilipovic;"s""66V97E";OU=Marketing,DC=vladimir,DC=putin;kfilipovic@vladimir.putin;919728704;Zaposlenici
+Neda;Bozic;nbozic;s%43N50X;OU=Vanjski korisnici,DC=vladimir,DC=putin;nbozic@vladimir.putin;916522683;Administrator
+Hrvojka;Kovacevic;hkovacevic;z!69W91A;OU=Uprava,DC=vladimir,DC=putin;hkovacevic@vladimir.putin;913225127;Zaposlenici
+Dzuro;Jukic;djukic;g!81E92E;OU=Vanjski korisnici,DC=vladimir,DC=putin;djukic@vladimir.putin;911852048;DistroGrupa
+Lela;Horvat;lhorvat;n!87U26F;OU=Vanjski korisnici,DC=vladimir,DC=putin;lhorvat@vladimir.putin;917015509;Zaposlenici
+Bojana;Horvat;bhorvat;s!46T99G;OU=Vanjski korisnici,DC=vladimir,DC=putin;bhorvat@vladimir.putin;914865783;Administrator
+Miroslav;Kovacevic;mkovacevic;l#12F70K;OU=Uprava,DC=vladimir,DC=putin;mkovacevic@vladimir.putin;918067538;Vanjski
+Vuk;Horvat;vhorvat;e!84K66Y;OU=Financije,DC=vladimir,DC=putin;vhorvat@vladimir.putin;911832769;Zaposlenici
+Drzislav;Jukic;djukic;t!13X85P;OU=Uprava,DC=vladimir,DC=putin;djukic@vladimir.putin;913366765;Administrator
+Bojana;Nikolic;bnikolic;m#97R24X;OU=Vanjski korisnici,DC=vladimir,DC=putin;bnikolic@vladimir.putin;911715887;DistroGrupa
+Hrvoje;Mamic;hmamic;m&87G83T;OU=Vanjski korisnici,DC=vladimir,DC=putin;hmamic@vladimir.putin;914214364;Administrator
+Milan;Loncar;mloncar;s!36R11C;OU=Financije,DC=vladimir,DC=putin;mloncar@vladimir.putin;912242649;Administrator
+Katarina;Nikolic;knikolic;t#72W59J;OU=Marketing,DC=vladimir,DC=putin;knikolic@vladimir.putin;912582096;Administrator
+Vladislava;Bosnjak;vbosnjak;z$31U74K;OU=Uprava,DC=vladimir,DC=putin;vbosnjak@vladimir.putin;911309732;Vanjski
+Ann;Tomic;atomic;r#86B82M;OU=Financije,DC=vladimir,DC=putin;atomic@vladimir.putin;916960877;Zaposlenici
+Milan;Horvat;mhorvat;r$43F13I;OU=Marketing,DC=vladimir,DC=putin;mhorvat@vladimir.putin;912018675;DistroGrupa
+Vladislav;Posavec;vposavec;w!15A32V;OU=Financije,DC=vladimir,DC=putin;vposavec@vladimir.putin;918821274;Administrator
+Matt;Posavec;mposavec;"u""29E95V";OU=Uprava,DC=vladimir,DC=putin;mposavec@vladimir.putin;919722894;Vanjski
+Miroslav;Knezevic;mknezevic;w$27D45R;OU=Marketing,DC=vladimir,DC=putin;mknezevic@vladimir.putin;918234578;Vanjski
+Branimir;Bosnjak;bbosnjak;t$13A81N;OU=Uprava,DC=vladimir,DC=putin;bbosnjak@vladimir.putin;912888343;Administrator
+Kresimir;Simunovic;ksimunovic;f&99D53S;OU=Vanjski korisnici,DC=vladimir,DC=putin;ksimunovic@vladimir.putin;916031070;DistroGrupa
+Pero;Filipovic;pfilipovic;b%42X50W;OU=Uprava,DC=vladimir,DC=putin;pfilipovic@vladimir.putin;912870266;Administrator
+Dzuro;Knezevic;dknezevic;d#27P93G;OU=Uprava,DC=vladimir,DC=putin;dknezevic@vladimir.putin;912362800;Zaposlenici
+George;Mamic;gmamic;a$16M63C;OU=Uprava,DC=vladimir,DC=putin;gmamic@vladimir.putin;912345707;Administrator
+Pero;Kovacevic;pkovacevic;g$84W50V;OU=Vanjski korisnici,DC=vladimir,DC=putin;pkovacevic@vladimir.putin;916707314;Administrator
+Margarita;Loncar;mloncar;f#36D91A;OU=Marketing,DC=vladimir,DC=putin;mloncar@vladimir.putin;911116215;Zaposlenici
+Branimir;Loncar;bloncar;f!30L52Q;OU=Financije,DC=vladimir,DC=putin;bloncar@vladimir.putin;913622251;Vanjski
+Drzislav;Bosnjak;dbosnjak;x$17J74T;OU=Vanjski korisnici,DC=vladimir,DC=putin;dbosnjak@vladimir.putin;915953150;DistroGrupa
+Sam;Loncar;sloncar;z&99K45N;OU=Vanjski korisnici,DC=vladimir,DC=putin;sloncar@vladimir.putin;912412024;Administrator
+Doroteja;Mamic;dmamic;"d""27A74Q";OU=Financije,DC=vladimir,DC=putin;dmamic@vladimir.putin;918090960;DistroGrupa
+Morana;Cosci;mcosci;s#11A99W;OU=Uprava,DC=vladimir,DC=putin;mcosci@vladimir.putin;911722755;Zaposlenici
+Branimir;Loncar;bloncar;s&42K19A;OU=Marketing,DC=vladimir,DC=putin;bloncar@vladimir.putin;914114074;Zaposlenici
+Vesna;Posavec;vposavec;t$71Z16P;OU=Vanjski korisnici,DC=vladimir,DC=putin;vposavec@vladimir.putin;915698848;Vanjski
+George;Filipovic;gfilipovic;"p""44H40T";OU=Vanjski korisnici,DC=vladimir,DC=putin;gfilipovic@vladimir.putin;915844827;Zaposlenici
+Vladislava;Posavec;vposavec;t#24T32Z;OU=Vanjski korisnici,DC=vladimir,DC=putin;vposavec@vladimir.putin;916862674;Vanjski
+Vesna;Filipovic;vfilipovic;v&65W37W;OU=Financije,DC=vladimir,DC=putin;vfilipovic@vladimir.putin;914604858;Zaposlenici
+Dzuro;Jukic;djukic;"r""75X18G";OU=Financije,DC=vladimir,DC=putin;djukic@vladimir.putin;916525365;Vanjski
+Vesna;Tomic;vtomic;j%29A22W;OU=Uprava,DC=vladimir,DC=putin;vtomic@vladimir.putin;914495151;Vanjski
+Danica;Jukic;djukic;j&51L95K;OU=Uprava,DC=vladimir,DC=putin;djukic@vladimir.putin;917977357;Administrator
+Branimir;Tomic;btomic;d!24H72L;OU=Uprava,DC=vladimir,DC=putin;btomic@vladimir.putin;913323502;Administrator
+Vladislava;Cosci;vcosci;u&51T90R;OU=Vanjski korisnici,DC=vladimir,DC=putin;vcosci@vladimir.putin;917321868;Zaposlenici
+Vesna;Loncar;vloncar;j$17M47R;OU=Uprava,DC=vladimir,DC=putin;vloncar@vladimir.putin;919676256;Zaposlenici
+Milan;Horvat;mhorvat;r#83Y40D;OU=Uprava,DC=vladimir,DC=putin;mhorvat@vladimir.putin;916353691;Vanjski
+Zvonimir;Nikolic;znikolic;u$94D14E;OU=Vanjski korisnici,DC=vladimir,DC=putin;znikolic@vladimir.putin;918064618;DistroGrupa
+Zorja;Bosnjak;zbosnjak;t#76E73R;OU=Financije,DC=vladimir,DC=putin;zbosnjak@vladimir.putin;910425687;Administrator
+Vuk;Knezevic;vknezevic;s&46S86W;OU=Financije,DC=vladimir,DC=putin;vknezevic@vladimir.putin;915818924;Zaposlenici
+Hrvojka;Mamic;hmamic;g!49X76O;OU=Financije,DC=vladimir,DC=putin;hmamic@vladimir.putin;918519627;DistroGrupa
+Margarita;Posavec;mposavec;g#92G31L;OU=Financije,DC=vladimir,DC=putin;mposavec@vladimir.putin;916066613;Administrator
+Kresimir;Jukic;kjukic;q%48Y14M;OU=Financije,DC=vladimir,DC=putin;kjukic@vladimir.putin;913336699;Zaposlenici
+Miroslav;Mamic;mmamic;a&69Q34U;OU=Vanjski korisnici,DC=vladimir,DC=putin;mmamic@vladimir.putin;919318944;Administrator
+Kosjenka;Nikolic;knikolic;e%55V29W;OU=Marketing,DC=vladimir,DC=putin;knikolic@vladimir.putin;919655131;DistroGrupa
+Tvrtko;Bozic;tbozic;"d""31P39S";OU=Uprava,DC=vladimir,DC=putin;tbozic@vladimir.putin;916803374;Zaposlenici
+Toni;Horvat;thorvat;r#30D98S;OU=Financije,DC=vladimir,DC=putin;thorvat@vladimir.putin;916128367;DistroGrupa
+Pero;Posavec;pposavec;u!36U32Y;OU=Uprava,DC=vladimir,DC=putin;pposavec@vladimir.putin;912749812;Vanjski
+Hrvoje;Kovacevic;hkovacevic;s!16E13K;OU=Financije,DC=vladimir,DC=putin;hkovacevic@vladimir.putin;912669681;Vanjski
+Branimir;Knezevic;bknezevic;j%82C67N;OU=Uprava,DC=vladimir,DC=putin;bknezevic@vladimir.putin;919061935;Administrator
+Krsto;Tomic;ktomic;o%20I51Y;OU=Uprava,DC=vladimir,DC=putin;ktomic@vladimir.putin;915306005;Zaposlenici
+Lela;Filipovic;lfilipovic;y#39P92V;OU=Financije,DC=vladimir,DC=putin;lfilipovic@vladimir.putin;912259213;DistroGrupa
+Mislav;Cosci;mcosci;"c""70L37Q";OU=Financije,DC=vladimir,DC=putin;mcosci@vladimir.putin;914052197;Zaposlenici
+Margarita;Posavec;mposavec;l$17U75Z;OU=Marketing,DC=vladimir,DC=putin;mposavec@vladimir.putin;916279120;DistroGrupa
+Morana;Posavec;mposavec;k!81Y66R;OU=Financije,DC=vladimir,DC=putin;mposavec@vladimir.putin;918972302;Vanjski
+Zora;Posavec;zposavec;g%64F13J;OU=Marketing,DC=vladimir,DC=putin;zposavec@vladimir.putin;916540037;Zaposlenici
+Toni;Filipovic;tfilipovic;e&48J34D;OU=Vanjski korisnici,DC=vladimir,DC=putin;tfilipovic@vladimir.putin;915154691;Vanjski
+Zorja;Simunovic;zsimunovic;q!18G89V;OU=Uprava,DC=vladimir,DC=putin;zsimunovic@vladimir.putin;912914326;Vanjski
+Milan;Bozic;mbozic;j#74J80A;OU=Financije,DC=vladimir,DC=putin;mbozic@vladimir.putin;917822293;Vanjski
+Dzuro;Posavec;dposavec;h$87T37X;OU=Financije,DC=vladimir,DC=putin;dposavec@vladimir.putin;918438544;Zaposlenici
+Neda;Kovacevic;nkovacevic;e$19L57I;OU=Uprava,DC=vladimir,DC=putin;nkovacevic@vladimir.putin;915184971;Vanjski
+Zorja;Kovacevic;zkovacevic;x%48G75B;OU=Vanjski korisnici,DC=vladimir,DC=putin;zkovacevic@vladimir.putin;918939603;Administrator
+Dzuro;Knezevic;dknezevic;k!86R67K;OU=Marketing,DC=vladimir,DC=putin;dknezevic@vladimir.putin;913251773;Zaposlenici
+Lela;Horvat;lhorvat;"v""97W88A";OU=Financije,DC=vladimir,DC=putin;lhorvat@vladimir.putin;916348286;Vanjski
+Hrvojka;Loncar;hloncar;"e""89K44P";OU=Marketing,DC=vladimir,DC=putin;hloncar@vladimir.putin;915581289;DistroGrupa
+Zvonimir;Bozic;zbozic;t%33R83U;OU=Financije,DC=vladimir,DC=putin;zbozic@vladimir.putin;916980099;Vanjski
+George;Nikolic;gnikolic;a$85J73Q;OU=Financije,DC=vladimir,DC=putin;gnikolic@vladimir.putin;917065426;Zaposlenici
+Jennifer;Mamic;jmamic;f$59B49D;OU=Financije,DC=vladimir,DC=putin;jmamic@vladimir.putin;910878310;Zaposlenici
+George;Horvat;ghorvat;h&11B15Y;OU=Financije,DC=vladimir,DC=putin;ghorvat@vladimir.putin;919643404;Vanjski
+Vladislava;Nikolic;vnikolic;f!35H67D;OU=Marketing,DC=vladimir,DC=putin;vnikolic@vladimir.putin;912479186;Administrator
+Kosjenka;Nikolic;knikolic;z$33X56P;OU=Marketing,DC=vladimir,DC=putin;knikolic@vladimir.putin;911338106;Vanjski
+Zora;Horvat;zhorvat;s%77V92X;OU=Vanjski korisnici,DC=vladimir,DC=putin;zhorvat@vladimir.putin;919698532;Zaposlenici
+Kosjenka;Nikolic;knikolic;h#46Y62U;OU=Marketing,DC=vladimir,DC=putin;knikolic@vladimir.putin;915754837;Vanjski
+Katarina;Nikolic;knikolic;q!95H21T;OU=Marketing,DC=vladimir,DC=putin;knikolic@vladimir.putin;913511894;Administrator
+Hrvoje;Simunovic;hsimunovic;a!26K38L;OU=Marketing,DC=vladimir,DC=putin;hsimunovic@vladimir.putin;913643138;DistroGrupa
+Zora;Bosnjak;zbosnjak;t$67Q78I;OU=Marketing,DC=vladimir,DC=putin;zbosnjak@vladimir.putin;917391024;DistroGrupa
+Mislav;Simunovic;msimunovic;q$67Z52W;OU=Vanjski korisnici,DC=vladimir,DC=putin;msimunovic@vladimir.putin;919081858;Administrator
+Drzislav;Cosci;dcosci;u%83I47H;OU=Uprava,DC=vladimir,DC=putin;dcosci@vladimir.putin;912549191;Vanjski
+Doroteja;Cosci;dcosci;y$43M78S;OU=Marketing,DC=vladimir,DC=putin;dcosci@vladimir.putin;913309901;Zaposlenici
+George;Nikolic;gnikolic;v!37W63O;OU=Financije,DC=vladimir,DC=putin;gnikolic@vladimir.putin;918354744;DistroGrupa
+Hrvoje;Nikolic;hnikolic;"l""72K46C";OU=Uprava,DC=vladimir,DC=putin;hnikolic@vladimir.putin;919434222;DistroGrupa
+Lela;Nikolic;lnikolic;j!64S69R;OU=Marketing,DC=vladimir,DC=putin;lnikolic@vladimir.putin;913013234;Zaposlenici
+Vladislava;Horvat;vhorvat;c#62A13B;OU=Vanjski korisnici,DC=vladimir,DC=putin;vhorvat@vladimir.putin;919451012;Administrator
+Vesna;Bozic;vbozic;y$97I74G;OU=Uprava,DC=vladimir,DC=putin;vbozic@vladimir.putin;918621587;DistroGrupa
+Jennifer;Bosnjak;jbosnjak;"g""65L81Y";OU=Uprava,DC=vladimir,DC=putin;jbosnjak@vladimir.putin;914092975;Vanjski
+Neda;Filipovic;nfilipovic;"f""50Z88I";OU=Uprava,DC=vladimir,DC=putin;nfilipovic@vladimir.putin;919535724;Administrator
+Matt;Horvat;mhorvat;n$35Z23K;OU=Marketing,DC=vladimir,DC=putin;mhorvat@vladimir.putin;913348036;Administrator
+Dzuro;Loncar;dloncar;i%16K86S;OU=Uprava,DC=vladimir,DC=putin;dloncar@vladimir.putin;912059973;Administrator
+Branimir;Loncar;bloncar;z%27J72T;OU=Marketing,DC=vladimir,DC=putin;bloncar@vladimir.putin;916076693;Vanjski
+Krsto;Filipovic;kfilipovic;m#41N62S;OU=Financije,DC=vladimir,DC=putin;kfilipovic@vladimir.putin;913336436;Administrator
+Katarina;Loncar;kloncar;m%83J81S;OU=Uprava,DC=vladimir,DC=putin;kloncar@vladimir.putin;910030529;DistroGrupa
+Milan;Posavec;mposavec;"y""79O48C";OU=Marketing,DC=vladimir,DC=putin;mposavec@vladimir.putin;918664973;Zaposlenici
+Zvonimir;Loncar;zloncar;r&88J17L;OU=Marketing,DC=vladimir,DC=putin;zloncar@vladimir.putin;913991791;DistroGrupa
+Vladislav;Bozic;vbozic;b$82Z72E;OU=Marketing,DC=vladimir,DC=putin;vbozic@vladimir.putin;914349587;Vanjski
+Margarita;Loncar;mloncar;y&18Y50A;OU=Uprava,DC=vladimir,DC=putin;mloncar@vladimir.putin;911024937;Vanjski
+Vladislav;Posavec;vposavec;f%58V41W;OU=Vanjski korisnici,DC=vladimir,DC=putin;vposavec@vladimir.putin;915824115;Zaposlenici
+Bojan;Cosci;bcosci;"j""17S43E";OU=Vanjski korisnici,DC=vladimir,DC=putin;bcosci@vladimir.putin;910930262;Administrator
+Bojan;Horvat;bhorvat;m!30D51I;OU=Marketing,DC=vladimir,DC=putin;bhorvat@vladimir.putin;914060297;Zaposlenici
+Lela;Tomic;ltomic;v&46N27G;OU=Vanjski korisnici,DC=vladimir,DC=putin;ltomic@vladimir.putin;914156783;Vanjski
+Toni;Knezevic;tknezevic;y!56R86A;OU=Uprava,DC=vladimir,DC=putin;tknezevic@vladimir.putin;917388761;DistroGrupa
+Vladislav;Cosci;vcosci;y#29V45S;OU=Financije,DC=vladimir,DC=putin;vcosci@vladimir.putin;910252233;Administrator
+Krsto;Knezevic;kknezevic;e&10R58C;OU=Vanjski korisnici,DC=vladimir,DC=putin;kknezevic@vladimir.putin;916060477;Vanjski
+Margarita;Bozic;mbozic;"k""70N33X";OU=Marketing,DC=vladimir,DC=putin;mbozic@vladimir.putin;914891527;Vanjski
+Neda;Filipovic;nfilipovic;j&79U94H;OU=Vanjski korisnici,DC=vladimir,DC=putin;nfilipovic@vladimir.putin;912531744;Zaposlenici
+Margarita;Bosnjak;mbosnjak;e#78F88M;OU=Marketing,DC=vladimir,DC=putin;mbosnjak@vladimir.putin;915823390;Administrator
+Tvrtko;Kovacevic;tkovacevic;c!34I46M;OU=Uprava,DC=vladimir,DC=putin;tkovacevic@vladimir.putin;910920709;Vanjski
+Ann;Loncar;aloncar;t!61O96I;OU=Financije,DC=vladimir,DC=putin;aloncar@vladimir.putin;912711805;DistroGrupa
+Vladislav;Bosnjak;vbosnjak;c!23H89P;OU=Uprava,DC=vladimir,DC=putin;vbosnjak@vladimir.putin;914723611;DistroGrupa
+Kresimir;Loncar;kloncar;o#86V96S;OU=Marketing,DC=vladimir,DC=putin;kloncar@vladimir.putin;919343477;DistroGrupa
+Tvrtko;Cosci;tcosci;i%19C40Y;OU=Financije,DC=vladimir,DC=putin;tcosci@vladimir.putin;916953399;Zaposlenici
+Drzislav;Kovacevic;dkovacevic;y#88O97I;OU=Financije,DC=vladimir,DC=putin;dkovacevic@vladimir.putin;914672643;DistroGrupa
+Kosjenka;Kovacevic;kkovacevic;v&52X95J;OU=Vanjski korisnici,DC=vladimir,DC=putin;kkovacevic@vladimir.putin;917510598;Administrator
+Kresimir;Kovacevic;kkovacevic;i!65Z28L;OU=Financije,DC=vladimir,DC=putin;kkovacevic@vladimir.putin;918918604;Zaposlenici
+Kresimir;Posavec;kposavec;z#49N86K;OU=Financije,DC=vladimir,DC=putin;kposavec@vladimir.putin;913934813;Administrator
+Neda;Bosnjak;nbosnjak;"v""76L44H";OU=Uprava,DC=vladimir,DC=putin;nbosnjak@vladimir.putin;912557098;Vanjski
+George;Horvat;ghorvat;m$95L58Z;OU=Financije,DC=vladimir,DC=putin;ghorvat@vladimir.putin;913977189;Zaposlenici
+Tvrtko;Jukic;tjukic;"e""51B43Y";OU=Financije,DC=vladimir,DC=putin;tjukic@vladimir.putin;919185733;Vanjski
+Vesna;Jukic;vjukic;b!12X78K;OU=Financije,DC=vladimir,DC=putin;vjukic@vladimir.putin;915128232;Zaposlenici
+Matt;Knezevic;mknezevic;s$22I73F;OU=Uprava,DC=vladimir,DC=putin;mknezevic@vladimir.putin;914665317;Administrator
+Kresimir;Cosci;kcosci;o$15J98Q;OU=Uprava,DC=vladimir,DC=putin;kcosci@vladimir.putin;918972892;DistroGrupa
+Vuk;Jukic;vjukic;o%10P67B;OU=Vanjski korisnici,DC=vladimir,DC=putin;vjukic@vladimir.putin;914014134;Administrator
+Vladislava;Bosnjak;vbosnjak;e#90T57E;OU=Marketing,DC=vladimir,DC=putin;vbosnjak@vladimir.putin;910929037;DistroGrupa
+Toni;Filipovic;tfilipovic;"p""22D87R";OU=Marketing,DC=vladimir,DC=putin;tfilipovic@vladimir.putin;915682008;Zaposlenici
+Matt;Mamic;mmamic;s&66B47X;OU=Vanjski korisnici,DC=vladimir,DC=putin;mmamic@vladimir.putin;913862269;DistroGrupa
+Kosjenka;Bozic;kbozic;"j""59U44R";OU=Vanjski korisnici,DC=vladimir,DC=putin;kbozic@vladimir.putin;918574683;Zaposlenici
+Tvrtko;Kovacevic;tkovacevic;y&15R81S;OU=Vanjski korisnici,DC=vladimir,DC=putin;tkovacevic@vladimir.putin;912552257;DistroGrupa
+Buga;Horvat;bhorvat;"g""72N66J";OU=Uprava,DC=vladimir,DC=putin;bhorvat@vladimir.putin;916532389;Zaposlenici
+Vesna;Tomic;vtomic;n#19R78I;OU=Marketing,DC=vladimir,DC=putin;vtomic@vladimir.putin;917646563;DistroGrupa
+Branimir;Nikolic;bnikolic;"b""57Z54O";OU=Uprava,DC=vladimir,DC=putin;bnikolic@vladimir.putin;919865197;DistroGrupa
+Vladislava;Knezevic;vknezevic;m%67Q38L;OU=Financije,DC=vladimir,DC=putin;vknezevic@vladimir.putin;911019217;DistroGrupa
+Kosjenka;Knezevic;kknezevic;w%63Y84J;OU=Marketing,DC=vladimir,DC=putin;kknezevic@vladimir.putin;911911786;Administrator
+Margarita;Simunovic;msimunovic;k&76R25U;OU=Uprava,DC=vladimir,DC=putin;msimunovic@vladimir.putin;916838792;Zaposlenici
+Hrvojka;Tomic;htomic;x&83F54K;OU=Uprava,DC=vladimir,DC=putin;htomic@vladimir.putin;912907812;Vanjski
+Zora;Tomic;ztomic;"q""86G12K";OU=Financije,DC=vladimir,DC=putin;ztomic@vladimir.putin;913060874;Zaposlenici
+Pero;Mamic;pmamic;c$56T68X;OU=Marketing,DC=vladimir,DC=putin;pmamic@vladimir.putin;912675360;Zaposlenici
+Bojana;Loncar;bloncar;y!25Y51R;OU=Financije,DC=vladimir,DC=putin;bloncar@vladimir.putin;916230363;Zaposlenici
+Toni;Tomic;ttomic;g#14D48Q;OU=Uprava,DC=vladimir,DC=putin;ttomic@vladimir.putin;916327885;Administrator
+Lela;Knezevic;lknezevic;a$66Q95I;OU=Uprava,DC=vladimir,DC=putin;lknezevic@vladimir.putin;911455845;Zaposlenici
+Tvrtko;Cosci;tcosci;t%43V39U;OU=Vanjski korisnici,DC=vladimir,DC=putin;tcosci@vladimir.putin;917075955;Zaposlenici
+Bojan;Tomic;btomic;l$17I99W;OU=Uprava,DC=vladimir,DC=putin;btomic@vladimir.putin;915136989;Zaposlenici
+Zora;Bozic;zbozic;c!74Z75H;OU=Uprava,DC=vladimir,DC=putin;zbozic@vladimir.putin;917617845;Vanjski
+Vesna;Cosci;vcosci;s%48P19E;OU=Financije,DC=vladimir,DC=putin;vcosci@vladimir.putin;910539141;Zaposlenici
+Pero;Kovacevic;pkovacevic;f#21G57W;OU=Vanjski korisnici,DC=vladimir,DC=putin;pkovacevic@vladimir.putin;916580053;DistroGrupa
